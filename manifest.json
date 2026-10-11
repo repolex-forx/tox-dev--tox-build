@@ -1,0 +1,15 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "tox-build",
+  "versions": [
+    {
+      "commit": "743b0c399cea2573ff7a0eeecf7e40cc900f6930",
+      "parsed_at": "2026-10-11T22:16:02.329925+00:00",
+      "filetree": "filetree/743b0c399cea2573ff7a0eeecf7e40cc900f6930.nq.gz"
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
